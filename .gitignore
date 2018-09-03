@@ -1,0 +1,5 @@
+docs/build/
+.DS_Store
+docs/.DS_Store
+docs/source/.DS_Store
+src/.DS_Store
