@@ -3,14 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-RISC Lab Documentation
+Robotics Tutorials
 =====================================
 
-.. note::
-   This guide is under active development.
-
-This document provides tutorials/guides/manuals of setups and experiments in the RISC Lab. This is mainly intended for the Robotics, Intelligent Systems and Control Lab users, at KAUST.
-
+This document provides tutorials/guides/manuals of setups and experiments of my personal robotics projects.
 
 .. toctree::
    :maxdepth: 2
@@ -40,24 +36,7 @@ This document provides tutorials/guides/manuals of setups and experiments in the
    2-networking
    2-dji-setup
    2-dji-guidance
-   
-.. toctree::
-    :maxdepth: 2
-    :hidden:
-    :caption: Marine
-
-    4-marine-1
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Hardware user's guides
-
-   3-3d-printing
-   3-CNC-machine
-   3-drill-press
-   3-dremmel
-   3-circular-saw
+   2-VIO-system
    
 
 
