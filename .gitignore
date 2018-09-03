@@ -3,3 +3,5 @@ docs/build/
 docs/.DS_Store
 docs/source/.DS_Store
 src/.DS_Store
+docs/build/html/
+docs/build/doctrees/
