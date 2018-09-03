@@ -1,3 +1,3 @@
-# RISC Lab Documentations
+# Personal Collection of Robotics Tutorials
 
-http://risc.readthedocs.io
+http://myroboticsdocs.readthedocs.io
